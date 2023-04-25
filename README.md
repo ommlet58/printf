@@ -14,3 +14,4 @@ printf - man page containing details about the usage of _printf function
 7. The big print gives and the small print takes away
 8. Sarcasm is lost in print
 9. Print some money and give it to us for the rain forests
+10. The negative is the equivalent of the composer's score, and the print the performance
